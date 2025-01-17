@@ -1,9 +1,11 @@
 # Search Recipe APP
 ## Application using:
 - Modular APP
-- Clean
+- Clean Architecture
 - Jetpack Compose
 - Dagger Hilt
 - Room
 - MVVM pattern
 - Retrofit
+- Coil
+- Coroutines
